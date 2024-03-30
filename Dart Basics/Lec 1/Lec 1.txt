@@ -1,0 +1,45 @@
+void main(){
+//block scope
+}
+print ("");
+print is a function.
+
+variable = memory location for store the data
+declare = variabale ceclare
+initialization = declare and value
+
+Data type
+Phone no = number (int, double)
+String = "Daniyal";
+Boolean = true; or false;
+List = store multiple values.
+Map = key value pair.
+Data type check
+.runtimetype
+
+variable naming rules
+1. not start with number
+2. exclude special characters except $ in start of variable name
+3. dont give space while naming variable
+
+void main ()
+{
+
+// String Data type
+String batch1 = "Batch 1";
+String batch2 = "Batch 2";
+
+print("this is " $batch1);
+print("this is " $batch2);
+
+// Int Data type
+int num1 = 107;
+int num2 = 119;
+int num3;
+num3 = 68;
+print(num1);
+print(num2);
+print(num3);
+print(num1 + num2 + num3);
+
+}

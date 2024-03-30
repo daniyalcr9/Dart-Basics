@@ -1,0 +1,11 @@
+a = 200;
+b = 30;
+c = 20;
+
+a>b && b>c
+a>b || b>c
+
+conditions:
+
+if else : conditions or exp solving
+switch case : exact value check
